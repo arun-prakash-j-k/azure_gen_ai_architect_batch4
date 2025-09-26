@@ -1,0 +1,10 @@
+langchain 
+langchain-openai 
+pandas
+numpy
+openai 
+python-dotenv 
+chromadb
+pypdf
+streamlit
+tabulate
