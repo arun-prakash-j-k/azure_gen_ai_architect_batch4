@@ -1,7 +1,8 @@
 langgraph 
 langchain-core 
 langchain-openai 
-pinecone-client 
+langchain-google-genai
+pinecone
 mlflow 
 pydantic 
 numpy 
