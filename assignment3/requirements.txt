@@ -1,0 +1,8 @@
+langgraph 
+langchain-core 
+langchain-openai 
+pinecone-client 
+mlflow 
+pydantic 
+numpy 
+python-dotenv
