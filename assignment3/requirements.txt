@@ -1,0 +1,9 @@
+langgraph 
+langchain-core 
+langchain-openai 
+langchain-google-genai
+pinecone
+mlflow 
+pydantic 
+numpy 
+python-dotenv
